@@ -1,2 +1,2 @@
 ### this simple single div CSS art was proudly copied from @Prathkum on Twitter.
-### To which I added some modifications for the sake of practice and enhance my abilities in CSS and Fron End generally.
+### To which I added some modifications for the sake of practice and enhancing my abilities in CSS and Fron End generally.
